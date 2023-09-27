@@ -21,3 +21,10 @@ body {
     margin: 0 auto;
     box-sizing: border-box;
 }
+body {
+    max-width: 90%;
+    background: linear-gradient(to bottom, ##87CEEB, #4682B4);
+    background-image: url(https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg)
+    background-image: url ()
+    background-image:
+}
