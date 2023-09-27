@@ -69,4 +69,8 @@ table tr:nth-child(even) {
 table tr:nth-child(odd) {
     background-color: #fff;
 }
+table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
 
