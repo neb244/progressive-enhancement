@@ -95,3 +95,14 @@ table td {
     justify-content: space-between;
     margin-bottom: 20px;
 }
+ul {
+    flex: 1;
+    margin-right: 10px;
+}
+figure {
+    flex: 1;
+    margin-right: 10px;
+}
+img {
+    max-width: 100%;
+}
