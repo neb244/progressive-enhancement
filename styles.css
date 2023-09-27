@@ -53,10 +53,10 @@ q {
 header {
     background-color: yellow;
 }
-p:contains("Good") {
+span.Good {
     color: green;
 }
-p:contains("Bad") {
+span.Bad {
     color: red;
 }
 
