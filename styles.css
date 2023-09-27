@@ -74,15 +74,15 @@ table td {
     padding: 8px;
 }
 li.good {
-    background-image: url(https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/progressive-enhancement/bien.png?raw=true);
+    background-image: url("https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/progressive-enhancement/bien.png?raw=true");
     padding-right: 20px;
 }
 li.wrong {
-    background-image: url(https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/progressive-enhancement/mal.png?raw=true);
+    background-image: url("https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/progressive-enhancement/mal.png?raw=true");
     padding-right: 20px;
 }
 li.chat {
-    background-image: url(https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/progressive-enhancement/chat.png?raw=true);
+    background-image: url("https://github.com/becodeorg/Swartz-8/blob/main/1.The-Field/8.Html-CSS/progressive-enhancement/chat.png?raw=true");
     padding-right: 20px;
 }
 .premier {
