@@ -50,3 +50,13 @@ q {
 .f {
     border-left-color: red;
 }
+header {
+    background-color: yellow;
+}
+p:contains("Good") {
+    color: green;
+}
+p:contains("Bad") {
+    color: red;
+}
+
