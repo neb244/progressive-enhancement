@@ -24,7 +24,21 @@ body {
 body {
     max-width: 90%;
     background: linear-gradient(to bottom, ##87CEEB, #4682B4);
-    background-image: url(https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg)
-    background-image: url ()
-    background-image:
+    background-image: url(https://cdn.futura-sciences.com/cdn-cgi/image/width=1920,quality=50,format=auto/sources/Trou_Gouffre_Doline_Chine_ChinaDaily.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom :right;
+    background-size: cover;
 }
+blockquote {
+    width: 50%;
+    margin: 80px auto;
+    padding-left: 30px;
+    border-left: 3px solid Firebrick;
+    background-color: #F5F5F5;
+    text-align: justify;
+}
+blockquote p {
+    font-size: 160%;
+    margin: 30px 0;
+}
+
