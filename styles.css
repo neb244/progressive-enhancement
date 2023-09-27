@@ -59,4 +59,14 @@ span.Good {
 span.Bad {
     color: red;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr:nth-child(even) {
+    background-color: gray;
+}
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
 
