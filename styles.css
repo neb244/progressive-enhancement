@@ -13,3 +13,10 @@ a:hover {
 a:visited {
     color: rgba(0, 0, 255, 0.203);
 }
+body {
+    width: 90%;
+    height: auto;
+    border: 1px solid #FF0000;
+    padding: 20px;
+    margin: 0 auto;
+}
