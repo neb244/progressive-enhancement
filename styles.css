@@ -44,9 +44,9 @@ blockquote p {
 q {
     font-style: italic;
 }
-v {
+.v {
     border-left-color: green;
 }
-f {
+.f {
     border-left-color: red;
 }
